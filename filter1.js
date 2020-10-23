@@ -22,5 +22,6 @@ const people = [
 const isCool = function(person) {
 	return person.coolnessScore > 20;
 }
+const coolPeople = ['Joe', 'Tammy', 'James', 'Tim'];
+return(person)
 
-// Your code goes here
